@@ -6,10 +6,10 @@ defaultParameters = {
 		"DB_Username":"test",
 		"DB_Listener":"OracleOraDb10g_home1TNSListener",
 		"DB_Service":"OracleServiceFIXGWYUN",
-		"AUTO_HOME":"C:\\byRainProgram\TRTN\Automation\FIXGatewayAutomation_Aegisoft\PLSQL",
-		"EXEC_HOME_Parent":"C:\\byRainProgram\\TRTN\Automation\\FIXGatewayAutomation_Aegisoft\\3.5.1.1_FIX_Automation\\3511",
+		"AUTO_HOME":".\Automation\FIXGatewayAutomation_Aegisoft\PLSQL",
+		"EXEC_HOME_Parent":".\\Automation\\FIXGatewayAutomation_Aegisoft\\3.5.1.1_FIX_Automation\\3511",
 		"EXEC_HOME":"%EXEC_HOME_Parent%\\%TEST_Name%",
-		"AegiSoft":''' "C:\\byRainProgram\\TRTN\Aegisoft\\" ''',
+		"AegiSoft":''' ".\\TRTN\Aegisoft\\" ''',
 
 		"V_SOURCE_ID":"publisher32LBN1",
 		"main_group_name":"R321",
